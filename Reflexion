@@ -1,4 +1,6 @@
-En vez de representar a un usuario, imaginemos que 'P' representa una nueva pizza. Los ingredientes que se utilizarán para prepararla
+# Reflexión
+
+En vez de representar a un usuario, **imaginemos que 'P' representa una nueva pizza**. Los ingredientes que se utilizarán para prepararla
 se seleccionan en función de su popularidad y de lo bien que se adapten a las preferencias de diferentes grupos de clientes. Estos 
 grupos pueden incluir tanto a clientes que hacen pedidos con menos frecuencia como a aquellos que viven más cerca del restaurante. 
 Usando el algoritmo KNN, podemos analizar los datos de preferencias y calcular la distancia entre las características de la nueva 
